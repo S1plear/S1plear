@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S1plear
+- 👋 Hi, I’m Oleg
 - 👀 I’m interested in DS/ML
 - 📫 How to reach me s1plear42@gmail.com
 - 📱  tg - @s1plear42
